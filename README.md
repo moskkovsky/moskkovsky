@@ -3,5 +3,5 @@
        width="300" 
        style="border-radius: 12px; overflow: hidden; border: none;">
   
-  ![](https://komarev.com/ghpvc/?username=moskkovsky&color=FF0000&label=views&reviated=true&style=plastic&font=bold)
+  ![](https://komarev.com/ghpvc/?username=moskkovsky&color=0ABAB5&label=views&reviated=true&style=plastic&font=bold)
 </div>
